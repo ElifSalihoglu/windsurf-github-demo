@@ -1,0 +1,53 @@
+# Context7 | Smithery
+
+Fetch up-to-date, version-specific documentation and code examples directly into your prompts. Enhance your coding experience by eliminating outdated information and hallucinated APIs. Simply add `use context7` to your questions for accurate and relevant answers.
+
+## General Information
+
+- [Smithery](https://smithery.ai/): A platform that provides tools and documentation for developers to enhance their coding experience.
+- [Docs](https://smithery.ai/docs): The main documentation hub for accessing various resources and guides related to Smithery.
+
+## Server Management
+
+- [Add Server](https://smithery.ai/new): Instructions on how to add a new server to the Smithery environment.
+- [Deployments | Smithery Documentation](https://smithery.ai/docs/build/deployments): Detailed guidelines on how to manage deployments within the Smithery framework.
+
+## API and Integration
+
+- [API](https://smithery.ai/server/@upstash/context7-mcp/api): Comprehensive details about the Smithery API, including endpoints and usage examples.
+- [resolve-library-id](https://smithery.ai/server/%40upstash%2Fcontext7-mcp/tools): Required first step to resolve a general package name into a Context7-compatible library ID, essential for using 'get-library-docs'.
+- [Connect to MCPs | Smithery Documentation](https://smithery.ai/docs/use/connect): Instructions on how to connect to various MCPs (Managed Code Packages) within the Smithery ecosystem.
+- [Integration with Deeplinks - Smithery Docs](https://smithery.ai/docs/use/integration): Guidelines on integrating deeplinks into your applications using Smithery.
+
+## Tools and Features
+
+- [Tools](https://smithery.ai/server/@upstash/context7-mcp/tools): Overview of the tools available within Smithery for developers.
+- [Logic | Smithery](https://smithery.ai/server/mcp_logic): Information on the logic components available in Smithery for building applications.
+- [Configuration Profiles - Smithery Documentation](https://smithery.ai/docs/use/profiles): Details on how to set up and manage configuration profiles in Smithery.
+
+## Specialized Applications
+
+- [MCP Specification](https://modelcontextprotocol.io/): Specifications and standards for Managed Code Packages used in Smithery.
+- [Use MCPs | Smithery Documentation](https://smithery.ai/docs/use): Instructions on how to effectively use Managed Code Packages within your projects.
+- [MCP2Brave - Smithery](https://smithery.ai/server/mcp2brave): Specific implementation details for the MCP2Brave package.
+- [MCP Proxy - Smithery](https://smithery.ai/server/mcp-proxy): Information on using the MCP Proxy for enhanced functionality.
+
+## Community and Support
+
+- [Careers](https://smithery.ai/careers): Opportunities and career information related to Smithery.
+- [GitHub](https://github.com/smithery-ai): Access to the Smithery GitHub repository for source code and contributions.
+- [Discord](https://discord.gg/sKd9uycgH9): Join the Smithery community on Discord for support and discussions.
+
+## Additional Resources
+
+- [Kagi - Smithery](https://smithery.ai/server/kagimcp): Information on the Kagi integration with Smithery.
+- [UI Flowchart Creator - Smithery](https://smithery.ai/server/uiflowchartcreator): A tool for creating UI flowcharts within the Smithery environment.
+- [Search1API MCP Server - Smithery](https://smithery.ai/server/search1api-mcp): Details on the Search1API MCP server setup and usage.
+- [Time Server - Smithery](https://smithery.ai/server/mcp-timeserver): Information on the Time Server functionality within Smithery.
+- [Bird Stats | Smithery](https://smithery.ai/server/mcp-birdstats): A specialized application for tracking bird statistics using Smithery.
+- [CISA M365 | Smithery](https://smithery.ai/server/cisa-m365): Integration details for CISA with Microsoft 365 in the Smithery context.
+- [Dice Roller - Smithery](https://smithery.ai/server/mcp-dice): A tool for rolling dice within the Smithery framework.
+- [Tavily Search - Smithery](https://smithery.ai/server/tavily-search): Information on the Tavily search functionality integrated with Smithery.
+- [DevRev | Smithery](https://smithery.ai/server/devrev-mcp): Overview of the DevRev integration with Smithery.
+
+This structured summary provides a comprehensive overview of the Smithery documentation, ensuring that all relevant links and descriptions are included for easy reference.
